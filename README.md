@@ -1,16 +1,16 @@
+<div align="center">
+  
 ### Hi there 👋
 
-<!--
-**csetltd/csetltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [pmis](https://github.com/csetltd/pmis)
+- 🌱 I’m currently learning how to write good software and documentation.
+- 👯 I’m not looking to collaborate
+- 🤔 I’m looking for help with learning new technology faster.
+- 💬 Ask me about software engineering.
+- 📫 How to reach me: donotreachme@nomail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i am sleeping now.
